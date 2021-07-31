@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Hmé lmô pé Tế nguỹn',
+    introTitle: 'Hmé lmô pé Tế nguỹnn',
     introDesc: `Đây là một bài test mức độ lờ o pê nhé`,
     btnIntro: 'Bmắt đmầu thmôi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Đâu là một câu đúng để bày tỏ tình lốp?',
+    desc: 'Hãy si ngĩ thặc kĩ nhé!',
     btnYes: 'Lờ ô pê 1 trem',
     btnNo: 'Lò vé 1 trem',
     question:'Vì sao lại lờ ô pê đảm nhiễn?',
