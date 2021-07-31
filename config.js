@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Đây là một bài test mức độ lờ o pê nhé`,
     btnIntro: 'Bmắt đmầu thmôi',
     title: 'Đâu là lời bày tỏ tình lo vé đúng?',
-    desc: 'Si nghĩ thặc kĩ nhé!',
+    desc: 'Si nghĩ thặc kĩ nhé!!',
     btnYes: 'Lờ ô pê 1 trem',
     btnNo: 'Lò vé 1 trem',
     question:'Vì sao lại lờ ô pê đảm nhiễn?',
