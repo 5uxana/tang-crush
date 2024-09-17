@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hmé lmô pé Tế nguỹn',
+    introTitle: 'Hmé lmô pé Tế nguỹnn',
     introDesc: `Đây là một bài test mức độ lờ o pê nhé`,
     btnIntro: 'Bmắt đmầu thmôi',
     title: 'hmmmmmmmmmmmmmmmmmmm',
